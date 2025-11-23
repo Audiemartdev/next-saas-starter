@@ -68,7 +68,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nirnejak/nextjs-typescript-saas.git
+git clone https://github.com/Audiemartdev/next-saas-starter.git
 cd nextjs-typescript-saas
 ```
 
@@ -200,4 +200,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Jitendra Nirnejak](https://github.com/nirnejak)
+Made with ❤️ by [Audie Martin](https://github.com/Audiemartdev)
